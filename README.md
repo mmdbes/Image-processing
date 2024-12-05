@@ -1,0 +1,1 @@
+The preprocessing file contain some transforms like log transform or segmentation or edge detection.I have used histogram equalization as well.Finally i used grabcut to eliminate backgound and only the main object remained.
